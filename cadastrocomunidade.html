@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="pt-br">
+	<head>
+		<title>Cadastro</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Eco Responsa</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">Nosso objetivo</a></li>
+                            <li><a href="generic.html">Mapa</a></li>
+                            <li class="active"><a href="cadastro.html">Cadastro</a></li>
+							<li><a href="elements.html">Login</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/ecoresponsa/?hl=pt-br" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<span class="date">Eco Responsa | Melius</span>
+									<h1>Faça seu cadastro e ajude a sua Comunidade</h1>
+								
+								</header>
+							</section>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<span class="date">Cadastro Membro da Comunidade Comunidade</span>
+							<form method="post" action="cadastro_usuario.php">
+								<div class="fields">
+									<div class="field">
+										<label for="cpf">CPF (somente números)</label>
+										<input type="text" name="cpf" id="cpf" >
+										
+									</div>
+									<div class="field">
+										<label for="nome">Nome Completo</label>
+										<input type="text" name="nome" id="nome" required placeholder="Nome completo" maxlength="150"/>
+									</div>
+									
+									<div class="field">
+										<label for="email">E-mail</label>
+										<input type="email" name="email" id="email" required placeholder="seunome@exemplo.com"/>
+									</div>
+									<div class="field">
+										<label for="bairro">Bairro</label>
+										<input type="text" name="bairro" id="bairro" required placeholder="Jardim Campestre" maxlength="150"/>
+									</div>
+									<div class="field">
+										<label for="cidade">Cidade</label>
+										<input type="text" name="cidade" id="cidade" required placeholder="Embu Guaçu" maxlength="150"/>
+									</div>
+									<div class="field">
+										<label for="datanasc">Data de Nascimento</label>
+										<input type="text" name="datanasc" id="datanasc" required data-mask="00/00/0000"/>
+									</div>
+									<div class="field">
+										<label for="senha">Senha</label>
+										<input type="password" name="senha" id="senha" required maxlength="20"/>
+									</div>	
+                                </div>
+								<ul class="actions">
+									<li><input type="submit" value="Cadastrar"/></li>
+								</ul>
+								<h3>Ao se Cadastrar, você concorda com os <a href="">Termos de Uso</a> e a <a href=""> Política de privacidade</a> do Eco Responsa </h3>
+
+
+                                <h3>Já tem uma conta?<a href="elements.html"> Faça o Login</a> </h3>
+
+                            </form>
+							
+					</footer>
+										
+									
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Eco Responsa | Melius</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+			<script src="assets/js/jquery-3.5.1.min.js"></script>		
+			<script src="assets/js/jquery.mask.js"></script>		
+			
+			<script>
+				$(document).ready(function(){
+					$('#cpf').mask('000.000.000-00', {reverse: true});
+				})
+			</script>
+
+			
+
+	</body>
+</html>

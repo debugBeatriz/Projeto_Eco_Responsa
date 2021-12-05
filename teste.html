@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form action="">
+        <label for="tteste">teste data</label>
+        <input type="text" name="teste" data-mask="00/00/0000" />
+        <label for="cpf">Cpf:</label>
+        <input type="text" name="cpf" id="cpf">
+    </form>
+
+    <script src="assets/js/jquery-3.5.1.min.js"></script>
+    <script src="assets/js/jquery.mask.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('#cpf').mask('000.000.000-00', {reverse: true});
+        })
+    </script>
+</body>
+</html>

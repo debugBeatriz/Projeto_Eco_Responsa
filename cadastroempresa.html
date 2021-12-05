@@ -1,0 +1,157 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="pt-br">
+	<head>
+		<title>Cadastro</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="shortcut icon" href="images/logo1.png" type="image/x-png"/>
+	</head>
+
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Eco Responsa</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">Nosso objetivo</a></li>
+                            <li><a href="generic.html">Mapa</a></li>
+                            <li class="active"><a href="cadastro.html">Cadastro</a></li>
+							<li><a href="elements.html">Login</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/ecoresponsa/?hl=pt-br" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<span class="date">Eco Responsa | Melius</span>
+									<h1>Faça seu cadastro e impacte positivamente na vida de milhares habitantes</h1>
+								</header>
+							</section>
+					</div>
+
+				<!-- formulário de cadastro da empresa -->
+
+
+					<footer id="footer">
+						<section>
+							<span class="date">Cadastro Empresa Parceira</span>
+							<form method="post" action="cadastro_empresa.php">
+								<div class="fields">
+									<div class="field">
+										<label for="cnpj">CNPJ (Somente números)</label>
+										<input type="text" name="cnpj" id="cnpj" required placeholder="XXXXXXXX0001XX" maxlength="14" minlength="14"/>
+									</div>
+									<div class="field">
+										<label for="razao_social">Razão social</label>
+										<input type="text" name="razao_social" id="razao_social" maxlength="100" required />
+									</div>
+									
+									<div class="field">
+										<label for="email">E-mail</label>
+										<input type="email" name="email" id="email" required placeholder="contato@exemplo.com" maxlength="80"/>
+									</div>
+									<div class="field">
+										<label for="telefone">Telefone</label>
+										<input type="text" name="telefone" id="telefone" required placeholder="ex: 41561775" maxlength="11"/>
+									</div>
+									<div class="field">
+										<label for="tipo_logradouro">Tipo de Logradouro</label>
+		                                <select name="tipo_logradouro"" id="tipo_logradouro"" required>
+										<option >Rua</option>
+										<option >Avenida</option>
+										<option >Estrada</option>
+										<option>Rodovia</option>
+										</select>
+									</div>
+									
+									<div class="field">
+										<label for="numero">Número</label>
+										<input type="number" name="numero" id="numero" required placeholder="27"/>
+									</div>	
+									
+									<div class="field">
+										<label for="logradouro">Logradouro</label>
+										<input type="text" name="logradouro" id="logradouro" required placeholder="Jardim Campestre" maxlength="100"/>
+									</div>	
+
+									<div class="field">
+										<label for="cidade">Cidade</label>
+										<input type="text" name="cidade" id="cidade" required placeholder="Embu-Guaçu" maxlength="100"/>
+									</div>	
+
+									<div class="field">
+										<label for="estado">Estado</label>
+										<input type="text" name="estado" id="estado" required placeholder="São Paulo" maxlength="100"/>
+									</div>	
+
+									<div class="field">
+										<label for="opcao_contribuicao">Como a sua empresa poderia contribuir</label>
+		                                <select name="opcao_contribuicao" id="opcao_contribuicao" required>
+											<option value=""></option>
+										<option >Instalação de lixeiras</option>
+										<option >Reforma da praça</option>
+										<option >Oficina e treinamentos de sustentabilidade</option>
+										<option >Criação de novos Ecopontos</option>
+										</select>
+									</div>	
+
+									<div class="field">
+										<label for="texto_contribuicao">Outras ações que poderiam contribuir:</label>
+										<textarea name="texto_contribuicao" id="texto_contribuicao" rows="2" maxlength="500"></textarea>
+									</div>
+
+									<div class="field">
+										<label for="senha">Senha</label>
+										<input type="password" name="senha" id="senha" required maxlength="15" />
+									</div>
+
+                                </div>
+								<ul class="actions">
+									<li><input type="submit" value="Cadastrar"/></li>
+								</ul>
+								<h3>Ao se Cadastrar, você concorda com os <a href="">Termos de Uso</a> e a <a href=""> Política de privacidade</a> do Eco Responsa </h3>
+
+
+                                <h3>Já tem uma conta?<a href="elements.html"> Faça o Login</a> </h3>
+
+                            </form>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Eco Responsa | Melius</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.mask.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

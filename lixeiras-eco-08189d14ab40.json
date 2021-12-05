@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lixeiras-eco",
+  "private_key_id": "08189d14ab40eb1556564939bf83d3f8544901ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQYVH+99r6TY5u\nnc4D0/Sh4cPYLO7gXufm360QTEAAsD+WjTdvpeiwouVjie7rAzB7aITfRXIXkWwl\nxaNt3OWdcRwCGYJzWZBicAOhPBQzDZHxPeJbeVubAbNOGnUe2BRzT4QQjEgpi3Vp\nMVzA/G92l5gbLWKXJy3eWFKw9y/MWCRCp9EVb+WmXrR3XQCz1Qsm01zXT7WTSYdN\n2TPyDHOzw7d4kpt/bD1Ibwk2KJ3OHt+Yt18kkQ6M0KR9c/aq8czpGhJjORtji+tW\n5+HoBeOVAjEZJoeQwV52M4c9VxYe+oALBa+PLqfP4vlu3pmicE6iPzL/QaDG5Hd6\nqgHPIF+FAgMBAAECggEAIlxl57gJtxwKWFGzurxc+sOuZmt0YXGs5kxsboNQS3zE\no4f6Q/IU9mmKD1mbmMuwFy1zOZjrORks/uaB7jgOceGIp4z6zpgOf7juVExCnW+H\nqQLWHFTc5ujHHyIsPW+OobwTMCJdtOIO9I9j9tu5apIRTivz9a5LeT5RtmYwTs7O\n0NJjilCScsh44f2cwXgFYJDAeuN8sKnar+IEkH9mgJZjAsT3S3i0LOc4QgKiq9Cp\nCFosXwcPpf4wHDVyc1C9A4WCkLQKVKbBXGwUGjw6S5BK3PT6tqys3pRVLGgTy6JF\ndTinuTL4U46+BPFNRQ+CVjCnsDYfrARlnIcoQlozCQKBgQDpdGFWyKj+TdMM2rGo\nOOd8v3u5VFJFQPTFT9hLPmwzAZAOav1w2w9uqdII0GntZ+DHqsUVSvJzw0u3kSlu\nXENIpvJeJH8lHDr0WIY0NVe6FNUki1gvAJROX+ujngz9ros3OoQREsuh17ILL9BL\nv/rXsv4x/EsWFT/MKoZYMseyPQKBgQDkgQhl+FLJTMkuxprOEGR13ajOwiOzTGPZ\n5QTNF4XdAGzX0TG+JHdY134pJI+9QfkRUGYG8qeGd30L5hDGb+aiPg5tDIVuW+Ze\n0ubqh5CLWkWLi1EHE14mr6ZZO2AlIaZXV4S9zNXs+6Rk+gNNN/mfGCozSdtFzybs\n69WKpiwe6QKBgQCTsQnnslifUbLkXfKo3x8r36QxUjQeFgMEVQgcSih/eEyfonYm\nEKBJvWvgIaHyDJa7GsFGQDz0mafsQQy6AeqbKusIPgSmAJ8XeG2m19xhH87cKL+o\nNLCeiLZ1s4a6ctMmJIHqnz5ubBv6UcxwL8tM7LM+AkOqe9T5oCmP4MhPbQKBgQDS\nGuMB/8b/WR9TZ0JIX0JALkRdeJ0i7AaT/8TeX9ayUwXBm5TFZPpoMhzK79dLCjJd\n/TMTCGOJfKz6F90s2Q+T9sOE+ZJm2xGD9yBkXapGuAZiPQOQIfrcT34BZlsNSVeN\nz+c6LfI2KVwLjOckRWe9JZcH+c0o70S3bFG5XvoKoQKBgFG7a4EdziBrMSXtVfff\nnizFwUg+dfPDojBM1ph719NRydFnq1rXXYs0OUIFzvtP5vAKXQhz4cQ1QZgeUFrZ\nMcfzUe6qfvLdCKnX2pdgMpwaekMkRM99JIdgWGXO/mC2WSDOjcBrhgBGg5OwW5sM\nqVYhCHA5bY/0Rm8jdryZYRxD\n-----END PRIVATE KEY-----\n",
+  "client_email": "lixeiras-eco@appspot.gserviceaccount.com",
+  "client_id": "101543704259780763880",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lixeiras-eco%40appspot.gserviceaccount.com"
+}
