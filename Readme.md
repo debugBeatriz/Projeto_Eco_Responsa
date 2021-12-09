@@ -1,1 +1,9 @@
-Somos a equipe Melius, alunos do instituto Proa, temos o objetivo de dar soluções sustentáveis ​​para resolver os problemas propostos pela ODS 12 (Consumo e Produções responsáveis). com o objetivo de tornar o planeta mais sustentável, nosso projeto tem como objetivo incentivar os moradores de diversas comunidades a adotarem medidas mais responsáveis, tendo as recompensas da parte do setor privado.
+#  Projeto Eco Responsa
+## Sobre o Projeto
+
+#### Nosso projeto alinhado com o objetivo de desenvolvimento sustentável 12
+#### Objetivos propostos pela ODS12, que nosso projeto visa solucionar: 12.5 Até 2030, reduzir substancialmente a geração de resíduos por meio da prevenção, redução, reciclagem e reuso 
+#### A ideia de envolver empresas privadas, para oferecer uma recompensa a comunidade que conseguir atingir as metas propostas de reciclagem, em um curto período.
+#### Nosso objetivo é incentivar as pessoas a adotarem hábitos de reciclagem, e praticar o reuso.  12.8 Até 2030, garantir que as pessoas, em todos os lugares, tenham informação relevante e conscientização para o desenvolvimento sustentável e estilos de vida em harmonia com a natureza.
+
+
