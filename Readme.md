@@ -11,8 +11,7 @@
 
 
 ## Conheça os 7 Rs da sustentabilidade 
-### Repense
-
+### Repensar
 
 <img src = "https://user-images.githubusercontent.com/89874723/145495488-cace411d-7e43-41a3-a74c-6ad7e93beeb8.png" width = "400px" height = "400px"/>
 
