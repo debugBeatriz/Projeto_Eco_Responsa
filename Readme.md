@@ -45,4 +45,4 @@
 
 ### Reciclar
 
-
+<img src = "https://user-images.githubusercontent.com/89874723/145495509-6ce160f9-83c7-4f4e-8c62-754bcc52691a.png " width = "400px" height = "400px"/>
