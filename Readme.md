@@ -24,5 +24,11 @@
 
 ###  Responsabilizar
 
+<img src = "https://user-images.githubusercontent.com/89874723/145495492-36e3cfb3-665f-4ffe-90de-862b10dd27e9.png" width = "400px" height = "400px"/>
+
+
+
+### Recusar
+
 
 
