@@ -19,6 +19,10 @@
 
 ### Respeitar
 
+<img src = "https://user-images.githubusercontent.com/89874723/145495490-3f01acfc-f43d-4399-808e-2d7f15378ef3.png" width = "400px" height = "400px"/>
+
+
+###  Responsabilizar
 
 
 
