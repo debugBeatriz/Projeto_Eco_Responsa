@@ -33,4 +33,9 @@
 <img src = "https://user-images.githubusercontent.com/89874723/145495499-1d8bad22-2ce0-40b4-b323-59f51e557c60.png" width = "400px" height = "400px"/>
 
 
+### Reduzir
+
+<img src = "https://user-images.githubusercontent.com/89874723/145495504-fd11b0b0-e869-4542-976c-a9258a7e43b1.png" width = "400px" height = "400px"/>
+
+
 
