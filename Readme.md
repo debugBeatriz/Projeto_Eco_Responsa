@@ -7,3 +7,10 @@
 #### Nosso objetivo é incentivar as pessoas a adotarem hábitos de reciclagem, e praticar o reuso.  12.8 Até 2030, garantir que as pessoas, em todos os lugares, tenham informação relevante e conscientização para o desenvolvimento sustentável e estilos de vida em harmonia com a natureza.
 
 
+![ODS12](https://user-images.githubusercontent.com/89874723/145495248-b9ee89c3-1d24-47ff-9e54-ea8e0eaa1322.png)
+
+
+## Conheça os 7 Rs da sustentabilidade 
+### Repense
+
+
